@@ -20,3 +20,6 @@ testproject1
 5. git commit -m "kommentar"
 6. git pull		--> konflikt?
 7. git push
+
+
+hej
