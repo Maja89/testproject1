@@ -12,3 +12,11 @@ testproject1
 	bye
 	</body>
 </html>
+
+1. git pull
+2. jobba med filerna
+3. spara
+4. git add .
+5. git commit -m "kommentar"
+6. git pull		--> konflikt?
+7. git push
