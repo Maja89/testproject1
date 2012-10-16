@@ -7,6 +7,8 @@ testproject1
 		<title>Test1</title>
 	</head>
 	<body>
-	Hi
+	Hello world :)
+	
+	bye
 	</body>
 </html>
